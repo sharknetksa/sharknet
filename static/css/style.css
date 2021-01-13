@@ -482,11 +482,11 @@ section {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  height: 160px;
+  height: 100px;
 }
 
 .clients .client-logo img {
-  height: 80px;
+  height: 60px;
 }
 
 .clients .client-logo:hover img {
